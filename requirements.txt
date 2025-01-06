@@ -3,3 +3,4 @@ xgboost
 torch
 pandas
 scikit-learn
+matplotlib
